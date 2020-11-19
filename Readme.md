@@ -13,7 +13,7 @@ No arquivo fb1-5.tab.c usa como entrada a saída da análise léxica para gerar 
 
 Modificar o programa bison "fb1-5.y" para  gerar a saída na notação de "labelled bracketing" especificada para o TP2 (ver repositório no GitHub).
 
-R: Feito. Disponível em [https://github.com/tironiigor/comp-eq2](https://github.com/tironiigor/comp-eq2)
+R: Feito. Disponível em [https://github.com/tironiigor/comp-eq2](https://github.com/tironiigor/comp-eq2) na pasta 03
 
 ## 3)
 
