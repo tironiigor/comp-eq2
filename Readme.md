@@ -22,3 +22,7 @@ Considerando o compilador para C-, para integrar seu analisador léxico  (TP1), 
 R: Para utilizar o TP1 no compilador ele precisaria seguir a API de integração com o bison, não retornar uma tupla por stdout para mostrar no terminal ou num arquivo.
 
 ## 4)
+
+Rode RSyntaxTree com a saída no formato "labelled bracketing" gerada na questão 2 para criar uma árvore sintática para a entrada 3 * 5 + 2 * 7  + 4
+
+![Arvore](./download.png)
